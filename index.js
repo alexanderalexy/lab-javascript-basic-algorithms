@@ -26,7 +26,7 @@ else if (hacker1.length === hacker2.length) {
 // Iteration 3: Loops
 
 // 3.1
-finalName = '';
+let finalName = '';
 // Loops the string
 for (let i = 0; i < hacker1.length; i++) {
 // sets the name to all uppercase
@@ -34,7 +34,6 @@ for (let i = 0; i < hacker1.length; i++) {
   
  
 }
-//separates the characters by space
   console.log(finalName.trim());
 
 
