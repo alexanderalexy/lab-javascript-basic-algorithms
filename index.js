@@ -64,16 +64,16 @@ b = hacker2.charAt(0);
 
 // Checks alphabetical order 
 if (hacker1 < hacker2) {
-  console.log(hacker1);
+  console.log("The driver's name goes first.");
 }
 
 else if (hacker1 === hacker2){
-  console.log('same Name');
+  console.log('What?! You both have the same name?');
 
 }
 
 else { 
-console.log(hacker2);
+console.log("Yo, the navigator goes first, definitely.");
 }
 
 
