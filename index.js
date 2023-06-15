@@ -56,11 +56,7 @@ console.log(rev);
 
 // 3.3
 
-let a = '';
-let b = '';
 
-a = hacker1.charAt(0);
-b = hacker2.charAt(0);
 
 // Checks alphabetical order 
 if (hacker1 < hacker2) {
